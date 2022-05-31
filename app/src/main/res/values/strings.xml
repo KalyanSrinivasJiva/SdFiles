@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SdFiles</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+
+</resources>
